@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daminipandey" alt="daminipandey" /></a> </p>
 
-- ⚡ Fun fact **I love the open source community. 💜**
 - 🔭 Building <a href="https://github.com/gluestack">gluestack</a> **at<a href="https://geekyants.com/"> GeekyAnts</a>**
+- ⚡ Fun fact **I love the open source community. 💜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
