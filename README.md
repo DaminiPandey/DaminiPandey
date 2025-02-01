@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Damini Pandey</h1>
 <h3 align="center">An enthusiastic frontend developer hailing from India 🎨 🖌️</h3>
 
+Why did the frontend developer refuse to play hide and seek?
+Because good luck trying to find someone who’s mastered CSS visibility: hidden and opacity: 0 at the same time! 🙃
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daminipandey&label=Profile%20views&color=0e75b6&style=flat" alt="daminipandey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daminipandey&theme=nord" alt="daminipandey" /></a> </p>
