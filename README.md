@@ -5,8 +5,7 @@
 
 ### **About Me**  
 - 💻 I speak fluent **HTML, CSS, and JavaScript**, but my favorite language is **sarcasm**. 😏  
-- 🛠️ When I'm not battling `z-index` wars or trying to center a `div`, I'm probably arguing with my laptop about why it won't render my code perfectly the first time.  
-- 🔥 **Spoiler:** It’s always the laptop’s fault.  
+
 
 ---
 
@@ -19,7 +18,6 @@ Because good luck trying to find someone who’s mastered `visibility: hidden` a
 ### **Fun Fact**  
 If my code breaks, it’s not a bug—it’s an *undocumented feature*. 🐛✨  
 
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daminipandey&label=Profile%20views&color=0e75b6&style=flat" alt="daminipandey" /> </p>
 
