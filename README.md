@@ -1,10 +1,9 @@
 <h1 align="center">Hi Hi there! 👋</h1>
 <h3 align="center"I'm Damini Pandey, a frontend developer from India who turns coffee ☕ into code 💻 and dreams 🌙 into responsive designs 🎨.</h3>
 
-
 I speak fluent HTML, CSS, and JavaScript, but my favorite language is sarcasm. 😏
-
-When I'm not battling z-index wars or trying to center a div in IE11 (RIP 🪦), I'm probably arguing with my laptop about why it won't render my code perfectly the first time. Spoiler: It’s always the laptop’s fault. 💻🔥
+When I'm not battling z-index wars or trying to center a div, I'm probably arguing with my laptop about why it won't render my code perfectly the first time.
+Spoiler: It’s always the laptop’s fault. 💻🔥
 
 Here’s a joke for you:
 Why did the frontend developer refuse to play hide and seek?
