@@ -1,15 +1,25 @@
-<h1 align="center">Hi Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I'm Damini Pandey, a frontend developer from India who turns coffee ☕ into code 💻 and dreams 🌙 into responsive designs 🎨.</h3>
 
-I speak fluent HTML, CSS, and JavaScript, but my favorite language is sarcasm. 😏
-When I'm not battling z-index wars or trying to center a div, I'm probably arguing with my laptop about why it won't render my code perfectly the first time.
-Spoiler: It’s always the laptop’s fault. 💻🔥
+---
 
-Here’s a joke for you:
-Why did the frontend developer refuse to play hide and seek?
-Because good luck trying to find someone who’s mastered visibility: hidden and opacity: 0 at the same time! 🙃
+### **About Me**  
+- 💻 I speak fluent **HTML, CSS, and JavaScript**, but my favorite language is **sarcasm**. 😏  
+- 🛠️ When I'm not battling `z-index` wars or trying to center a `div`, I'm probably arguing with my laptop about why it won't render my code perfectly the first time.  
+- 🔥 **Spoiler:** It’s always the laptop’s fault.  
 
-PS: If my code breaks, it’s not a bug—it’s an undocumented feature. 🐛✨
+---
+
+### **Here’s a Joke for You**  
+Why did the frontend developer refuse to play hide and seek?  
+Because good luck trying to find someone who’s mastered `visibility: hidden` and `opacity: 0` at the same time! 🙃
+
+---
+
+### **Fun Fact**  
+If my code breaks, it’s not a bug—it’s an *undocumented feature*. 🐛✨  
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daminipandey&label=Profile%20views&color=0e75b6&style=flat" alt="daminipandey" /> </p>
 
