@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Damini Pandey, a frontend developer from India who turns coffee ☕ into code 💻 and dreams 🌙 into responsive designs 🎨.</h3>
+<h3 align="left">I'm Damini Pandey, a frontend developer from India who turns coffee ☕ into code 💻 and dreams 🌙 into responsive designs 🎨.</h3>
 
 ---
 
